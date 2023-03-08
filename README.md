@@ -8,3 +8,8 @@ Briefly, this shows how to use await asyncio.wait_for() command to capture a tim
 Example using await asyncio.wait_for(randomTime(), timeout=2.0)
 
 See lambda_function.py for for example code
+
+Read my book:
+
+https://www.elektor.com/programming-voice-controlled-iot-applications-with-alexa-and-raspberry-pi
+
