@@ -1,4 +1,4 @@
-# AlexaTimeouts
+# Trapping Alexa skill timeouts
 How to trap Alexa timeouts in a Python skill
 
 Please see the attached docx file,
