@@ -9,6 +9,10 @@ Example using await asyncio.wait_for(randomTime(), timeout=2.0)
 
 See lambda_function.py for for example code
 
+Watch the video: 
+
+https://youtu.be/OsStzSfnAYc
+
 Read my book:
 
 https://www.elektor.com/programming-voice-controlled-iot-applications-with-alexa-and-raspberry-pi
